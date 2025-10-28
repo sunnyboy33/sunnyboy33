@@ -41,6 +41,5 @@
   <br>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkqehenr7&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sunnyboy37)](https://solved.ac/sunnyboy37)
    
 </div>
