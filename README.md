@@ -17,7 +17,7 @@
   - Mathematics and Statistics, Soongsil Unv. (2019.03 ~ 2025.02)
   <br><br>
 
-  <h3>🌟 Contributed to...</h3>
+  <h3>🌟Contributed to...</h3>
 
   - JetBrains/kotlin(<a href="https://github.com/JetBrains/kotlin/pull/8663">#8663</a>)
 
