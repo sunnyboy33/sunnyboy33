@@ -20,6 +20,7 @@
   <h3>🌟Contributed to...</h3>
 
   - JetBrains/kotlin(<a href="https://github.com/JetBrains/kotlin/pull/8663">#8663</a>)
+  - JetBrains/intellij-community(<a href="https://github.com/JetBrains/intellij-community/pull/3689">#3689</a>)
 
   <h3>🛠️Tech Stack</h3>
 
